@@ -1,18 +1,18 @@
 # GUI-Scientific-Graphing-Calculator---Akansh-Shah
 https://pythonprogramming.net/how-to-embed-matplotlib-graph-tkinter-gui/
-# https://medium.com/@rahulmallah785671/build-your-own-scientific-calculator-with-python-a-step-by-step-guide-15bbf0419325
-# https://pythonbasics.org/tkinter-label/
-# https://www.geeksforgeeks.org/python-grid-method-in-tkinter/
-# https://stackoverflow.com/questions/63852411/displaying-plot-in-tkinter-gui-frame
-# https://stackoverflow.com/questions/70967450/how-to-use-tkinter-buttons-to-help-in-calculator
-# https://www.geeksforgeeks.org/how-to-embed-matplotlib-charts-in-tkinter-gui/ 
-# https://pythonprogramming.net/how-to-embed-matplotlib-graph-tkinter-gui/
-# https://stackoverflow.com/questions/944700/how-to-check-for-nan-values
-# https://stackoverflow.com/questions/2244270/get-a-try-statement-to-loop-around-until-correct-value-obtained
-# https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axhline.html
-# https://stackoverflow.com/questions/16930328/vertical-horizontal-lines-in-matplotlib
-# https://www.w3schools.com/python/ref_func_getattr.asp
-# https://stackoverflow.com/questions/15781802/python-tkinter-clearing-a-frame
+https://medium.com/@rahulmallah785671/build-your-own-scientific-calculator-with-python-a-step-by-step-guide-15bbf0419325
+https://pythonbasics.org/tkinter-label/
+https://www.geeksforgeeks.org/python-grid-method-in-tkinter/
+https://stackoverflow.com/questions/63852411/displaying-plot-in-tkinter-gui-frame
+https://stackoverflow.com/questions/70967450/how-to-use-tkinter-buttons-to-help-in-calculator
+https://www.geeksforgeeks.org/how-to-embed-matplotlib-charts-in-tkinter-gui/ 
+https://pythonprogramming.net/how-to-embed-matplotlib-graph-tkinter-gui/
+https://stackoverflow.com/questions/944700/how-to-check-for-nan-values
+https://stackoverflow.com/questions/2244270/get-a-try-statement-to-loop-around-until-correct-value-obtained
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axhline.html
+https://stackoverflow.com/questions/16930328/vertical-horizontal-lines-in-matplotlib
+https://www.w3schools.com/python/ref_func_getattr.asp
+https://stackoverflow.com/questions/15781802/python-tkinter-clearing-a-frame
 
 import tkinter as tk #this imports the library for the GUI
 import math #this imports the library for the math operations 
