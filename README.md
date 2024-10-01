@@ -29,7 +29,7 @@ class Calculator: #this handles the GUI calculator
         master.geometry("400x600") #this sets the deminsions of the window
 
         self.total = tk.StringVar() #this creates a string variable to hold the value of the calculator 
-        
+
         self.entry = tk.Entry(master, textvariable = self.total, font = ("Calibri", 14)) #this creates a widget for the input and display of results
         self.entry.grid(row = 0, column = 0, columnspan = 5, pady = 5) #this positions the entry grid 
 
