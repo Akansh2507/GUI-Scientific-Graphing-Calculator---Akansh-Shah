@@ -1,5 +1,5 @@
 # GUI-Scientific-Graphing-Calculator---Akansh-Shah
-# https://pythonprogramming.net/how-to-embed-matplotlib-graph-tkinter-gui/
+https://pythonprogramming.net/how-to-embed-matplotlib-graph-tkinter-gui/
 # https://medium.com/@rahulmallah785671/build-your-own-scientific-calculator-with-python-a-step-by-step-guide-15bbf0419325
 # https://pythonbasics.org/tkinter-label/
 # https://www.geeksforgeeks.org/python-grid-method-in-tkinter/
